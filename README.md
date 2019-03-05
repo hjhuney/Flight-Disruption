@@ -1,4 +1,4 @@
-# Flight-Disruption
+# Flight Disruption in the US
 
 Here we analyze US flight disruptions using the Bureau of Transportation Statistics on-time performance data running from December 2015 to November 2018. We define disruptions to mean cancellations and flights delayed more than 4 hours. We also look at the replacements costs of these disruptions based on an assumed cost of $500 per disrupted flight. For instance, if 2 flights out of 100 were disrupted, replacement cost would be $1,000 divided by 100 flights, or $10 per flight on average. 
 
