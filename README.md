@@ -4,7 +4,9 @@ Here we analyze US flight disruptions using the Bureau of Transportation Statist
 
 There were over 18 million flights in the United States during this 3-year timeframe. 266,449 of these flights (1.45%) were cancelled and 358,672 were disrupted (1.95%). The average expected replacement ticket cost per flight was $9.75 based on our $500 assumption. Based on the data, it would appear that most long delays were due to carrier (approximately 68%); with weather and NAS operation delays being the next most common reasons. 
 
-We'll examine disruption stats by airport, route, carrier, month, state, time block, and distance. The full code can be found [here](https://github.com/hjhuney/Flight-Disruption/blob/master/BTS_Airline_OnTime_Perf_2016_18.ipynb). 
+We'll examine disruption stats by airport, route, carrier, month, state, time block, and distance. 
+
+The full code can be found [here](https://github.com/hjhuney/Flight-Disruption/blob/master/BTS_Airline_OnTime_Perf_2016_18.ipynb). It includes a model to predict the cost of insuring disrupted flights. 
 
 ## Airport Stats
 
