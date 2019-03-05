@@ -36,3 +36,34 @@ Now, we'll look at the top 40 routes out of the top 200
 
 
 ![40 Common Routes with Highest Disruption Costs](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/route002.svg)
+
+
+## Carrier Stats
+
+![Average Disruption Costs by Carrier](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/carrier001.svg)
+
+## Month Stats
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month001.svg)
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month002.svg)
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month003.svg)
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month004.svg)
+
+## State Stats
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock001.svg)
+
+## Time of Day Stats
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock002.svg)
+
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock003.svg)
+
+
+## Distance Stats
+
+![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/distance001.svg)
