@@ -14,15 +14,15 @@ There are over 300 airports in the US for this analysis. To make the visualizati
 
 ![Top 40 Airports Disruption %](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/airport002.svg)
 
-Now we'll look at the replacement cost measures, first looking at total average replacement cost per customer and then breaking it down by cancellations versus 4+ hour delays. 
+Now we'll look at the replacement cost measures. Note that this is the exact same chart as above, just with replacement ticket cost estimates forming the y-axis rather than disruption rate. 
 
 ![Top 40 Airport Disruption Costs](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/airport001.svg)
 
-What we can see from the data is that the New York area airports (LGA / JFK / EWK) have the highest disruption costs. The Northeast US, in general, seems to be most prone to disruptions with Boston (BOS), DC National (DCA), and Philadelphia (PHL) all high on the list. Chicago-O'Hare (ORD) is also very high on the list. While winter weather may be a problem, we should note that most of the Rocky Mountain airports do not experience the same disruption issues, with Salt Lake City (SLC) and Denver (DEN) both under the average disruption rate. We may surmise from this that a combination of traffic issues, airline specific issues, and weather are responsible for most disruptions. 
+What we can see from the data is that the New York area airports (LGA / JFK / EWK) have the highest disruption costs. The Northeast US, in general, seems to be most prone to disruptions with Boston (BOS), DC National (DCA), and Philadelphia (PHL) all high on the list. Chicago-O'Hare (ORD) is also very high on the list. While winter weather may be a problem, we should note that most of the Rocky Mountain airports do not experience the same disruption issues, with Salt Lake City (SLC) and Denver (DEN) both having below-average disruption rates. We may surmise from this that a combination of traffic issues, airline specific issues, and weather are responsible for most disruptions. 
 
 ## Route Stats
 
-Let's break down the airport stats further and look at major routes. There are over 6,000 different routes, so first off, we'll shrink our analysis down to the 200 most frequently travelled routes. From those 200 routes, we'll look at the 40 most frequently travelled as well as the 40 with the highest costs. First, the top 40 routes in terms of traffic. 
+Let's break down the airport stats further and look at major routes. There are over 6,000 different routes, so first off, we'll shrink our analysis down to the 200 most frequently travelled routes. From those 200 routes, we'll look at the top 40 in terms of passengers as well as the highest disruption costs. First, the top 40 routes in terms of traffic. 
 
 
 ![40 Most Travelled Routes by Disruption Cost](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/route001.svg)
@@ -33,7 +33,7 @@ Now, we'll look at the top 40 routes in terms of disruptions out of the top 200 
 
 ![40 Common Routes with Highest Disruption Costs](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/route002.svg)
 
-The routes witht he highest disruption costs include:
+The routes with he highest disruption costs include:
 
 * Boston (BOS) to New York (LGA / JFK / EWR)
 * Houston (HOU) to Dallas (DFW)
