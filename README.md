@@ -32,38 +32,68 @@ Let's break down the airport stats further and look at major routes. There are o
 ![40 Most Travelled Routes by Disruption Cost](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/route001.svg)
 
 
-Now, we'll look at the top 40 routes out of the top 200
+Now, we'll look at the top 40 routes in terms of disruptions out of the top 200 most travelled. 
 
 
 ![40 Common Routes with Highest Disruption Costs](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/route002.svg)
 
+The routes witht he highest disruption costs include:
+
+* Boston (BOS) to New York (LGA / JFK / EWR)
+* Houston (HOU) to Dallas (DFW)
+* New York (LGA) to Charlotte (CLT)
+* Orlando (MCO) to New York (LGA / JFK / EWR)
+* Los Angeles (LAX) to San Francisco (SFO)
+
 
 ## Carrier Stats
 
+Next, we'll take a look at carrier performance. 
+
 ![Average Disruption Costs by Carrier](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/carrier001.svg)
+
+From this chart, we can see that Delta Airlines does extremely well versus other major carriers, particularly given its nationwide geographic reach, this is very impressive. Of the major carriers, American Airlines performs the worst. Regional carriers such as PSA, Republic, SkyWest, and ExpressJet dominate the carriers with the highest disruption costs. 
+
+JetBlue also does not perform well. However, it would take deeper analysis to understand whether this was due to carrier-specific issues or if JetBlue's presence in New York (which has the highest disruption costs) inflates its average.
 
 ## Month Stats
 
+Next, we'll take a look at disruptions by month. 
+
 ![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month001.svg)
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month002.svg)
+Here we see that January is the month most prone to disruptions, but winter and summer months, in general, are the most likely to be disrupted, while Spring and Autumn months (April, May, October, November) are least likely to be disrupted. 
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month003.svg)
+Below, we can see the same chart, but with the breakdown by replacement ticket costs per customer. 
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month004.svg)
+![Average Disruption Costs by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month002.svg)
+
 
 ## State Stats
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock001.svg)
+The chart below analyzes disruption costs per customer by origin state. Note, that origin and destination stats tend to be fairly similar, so I'm only showing one of the two. 
+
+![Average Disruption Cost by Origin State](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock001.svg)
+
+From this chart, we can see that Maine (ME), Vermont (VT), and West Virginia (WV) have the highest costs. New York (NY) and New Jersey (NJ) are also very elevated. States with the fewest disruptions include Washington (WA), Utah (UT), and Hawaii (HI). 
 
 ## Time of Day Stats
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock002.svg)
+Below, we can see disruption percentage by takeoff and arrival time blocks. Common theme is that late morning / early afternoon flights tend to have the lowest disruption rates. 
+
+![Average Disruption % by Takeoff Timeblock](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock002.svg)
 
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock003.svg)
+![Average Disruption % by Arrival Timeblock](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock003.svg)
 
 
 ## Distance Stats
 
-![Average Disruption % by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/distance001.svg)
+Finally, we'll take a look at distance blocks, where we'll discover that short flights tend to have the highest disruption costs. 
+
+![Average Disruption Cost by Distance](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/distance001.svg)
+
+
+## Thanks
+
+That's it for the visualization. To see the full code and prediction model, view the notebook in the main repoistory. Thanks for reading!
