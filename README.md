@@ -18,10 +18,6 @@ Now we'll look at the replacement cost measures, first looking at total average 
 
 ![Top 40 Airport Disruption Costs](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/airport001.svg)
 
-![Cost Attributable to Cancellations](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/airport003.svg)
-
-![Costs Attributable to Delays](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/airport004.svg)
-
 What we can see from the data is that the New York area airports (LGA / JFK / EWK) have the highest disruption costs. The Northeast US, in general, seems to be most prone to disruptions with Boston (BOS), DC National (DCA), and Philadelphia (PHL) all high on the list. Chicago-O'Hare (ORD) is also very high on the list. While winter weather may be a problem, we should note that most of the Rocky Mountain airports do not experience the same disruption issues, with Salt Lake City (SLC) and Denver (DEN) both under the average disruption rate. We may surmise from this that a combination of traffic issues, airline specific issues, and weather are responsible for most disruptions. 
 
 ## Route Stats
