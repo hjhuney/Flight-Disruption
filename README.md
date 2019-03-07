@@ -77,10 +77,10 @@ From this chart, we can see that Maine (ME), Vermont (VT), and West Virginia (WV
 
 Below, we can see disruption percentage by takeoff and arrival time blocks. Common theme is that late morning / early afternoon flights tend to have the lowest disruption rates. 
 
-![Average Disruption % by Takeoff Timeblock](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock002.svg)
+![Average Disruption % by Takeoff Timeblock](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock001.svg)
 
 
-![Average Disruption % by Arrival Timeblock](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock003.svg)
+![Average Disruption % by Arrival Timeblock](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock002.svg)
 
 
 ## Distance Stats
