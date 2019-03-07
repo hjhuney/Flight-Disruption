@@ -69,7 +69,7 @@ Below, we can see the same chart, but with the breakdown by replacement ticket c
 
 The chart below analyzes disruption costs per customer by origin state. Note, that origin and destination stats tend to be fairly similar, so I'm only showing one of the two. 
 
-![Average Disruption Cost by Origin State](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/timeblock001.svg)
+![Average Disruption Cost by Origin State](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/state001.svg)
 
 From this chart, we can see that Maine (ME), Vermont (VT), and West Virginia (WV) have the highest costs. New York (NY) and New Jersey (NJ) are also very elevated. States with the fewest disruptions include Washington (WA), Utah (UT), and Hawaii (HI). 
 
