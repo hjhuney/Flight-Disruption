@@ -90,7 +90,7 @@ Once again, we can see that Delta is a top performer. JetBlue also does well on 
 
 Now, let's move onto some other stats. 
 
-## Month Stats
+## Month and Year Stats
 
 Next, we'll take a look at disruptions by month. 
 
@@ -101,6 +101,10 @@ Here we see that January is the month most prone to disruptions, but winter and 
 Below, we can see the same chart, but with the breakdown by replacement ticket costs per customer. 
 
 ![Average Disruption Costs by Month](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/month002.svg)
+
+Now, let's take a look at the breakdown by year, while also viewing the stats for the major carriers. 
+
+![Average Disruption Costs by Year and Carrier](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/carrier_by_year.svg)
 
 
 ## State Stats
