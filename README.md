@@ -50,6 +50,8 @@ Next, we'll take a look at carrier performance.
 
 From this chart, we can see that Delta Airlines does extremely well versus other major carriers, particularly given its nationwide geographic reach, this is very impressive. Of the major carriers, American Airlines performs the worst. Regional carriers such as PSA, Republic, SkyWest, and ExpressJet dominate the carriers with the highest disruption costs. 
 
+JetBlue does not perform that well here, but we need to examine it more closely to get a deeper picture. Is JBLU's poor disruption performance a result of operating issues or a result of having exposure to "high disruption rate airports" such as LGA and JFK? 
+
 We can further isolate the carriers by looking at origin airport and route specific stats. Let's take a look at the disruption rates at five of the US's busiest airports: 
 
 Atlanta's Hartsfield-Jackson Airport (ATL):
@@ -72,7 +74,20 @@ Los Angeles International (LAX):
 
 ![Average Disruption Rate by LAX](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_lax.svg)
 
-We can see that Delta performs well at every airport examined. 
+We can see that Delta performs well at every airport examined. While Alaska Airlines doesn't have as big of a reach as Delta, it performs very well in the airports it services. We can also see that JetBlue's stats look better on an airport-specific basis. It has a ~ 4% disruption rate at LGA (well above the national disruption rate average of around 2%), but this makes it the 4th best performing airline at that airport. Similarly, JetBlue is the 4th best performing airline at BOS, so JetBlue's above-average disruption rate in the aggregate may be a consequence of being more exposed to New York and the Northeast rather than an issue with its own operations. 
+
+Finally, let's look at some route stats for the carriers, as well. There are thousands of routes and I'm only going to show visualizations for 3 heavily-travelled ones: 
+
+(1) Atlanta (ATL) - LaGuardia (LGA)
+(2) Atlanta (ATL) - O'Hare (ORD)
+(3) Boston (BOS) - LaGuardia (LGA)
+
+![Average Disruption Rate ATL-LGA](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_atl-lga.svg)
+![Average Disruption Rate ATL-ORD](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_atl-ord.svg)
+![Average Disruption Rate BOS-LGA](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_bos-lga.svg)
+
+
+Now, let's move onto some other stats. 
 
 ## Month Stats
 
