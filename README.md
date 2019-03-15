@@ -50,7 +50,29 @@ Next, we'll take a look at carrier performance.
 
 From this chart, we can see that Delta Airlines does extremely well versus other major carriers, particularly given its nationwide geographic reach, this is very impressive. Of the major carriers, American Airlines performs the worst. Regional carriers such as PSA, Republic, SkyWest, and ExpressJet dominate the carriers with the highest disruption costs. 
 
-JetBlue also does not perform well. However, it would take deeper analysis to understand whether this was due to carrier-specific issues or if JetBlue's presence in New York (which has the highest disruption costs) inflates its average.
+We can further isolate the carriers by looking at origin airport and route specific stats. Let's take a look at the disruption rates at five of the US's busiest airports: 
+
+Atlanta's Hartsfield-Jackson Airport (ATL):
+
+![Average Disruption Rate ATL](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_atl.svg)
+
+New York's LaGuardia Airport (LGA):
+
+![Average Disruption Rate LGA](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_lga.svg)
+
+Boston's Logan Airport (BOS):
+
+![Average Disruption Rate by BOS](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_bos.svg)
+
+Chicago O'Hare (ORD):
+
+![Average Disruption Rate by ORD](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_ord.svg)
+
+Los Angeles International (LAX):
+
+![Average Disruption Rate by LAX](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_lax.svg)
+
+We can see that Delta performs well at every airport examined. 
 
 ## Month Stats
 
