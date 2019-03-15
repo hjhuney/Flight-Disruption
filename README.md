@@ -86,6 +86,7 @@ Finally, let's look at some route stats for the carriers, as well. There are tho
 ![Average Disruption Rate ATL-ORD](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_atl-ord.svg)
 ![Average Disruption Rate BOS-LGA](https://github.com/hjhuney/Flight-Disruption/blob/master/Images/disrupt_bos-lga.svg)
 
+Once again, we can see that Delta is a top performer. JetBlue also does well on the BOS-LGA route. 
 
 Now, let's move onto some other stats. 
 
