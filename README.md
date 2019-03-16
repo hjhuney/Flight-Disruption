@@ -6,7 +6,9 @@ There were over 18 million flights in the United States during this 3-year timef
 
 We'll examine disruption stats by airport, route, carrier, month, state, time block, and distance. 
 
-The full code includes a model to predict the cost of insuring disrupted flights. Full code can be found [here](https://nbviewer.jupyter.org/github/hjhuney/Flight-Disruption/blob/master/BTS_Airline_OnTime_Perf_2016_18.ipynb). 
+The full code includes a model to predict the cost of insuring disrupted flights. 
+
+Full code can be found [here](https://nbviewer.jupyter.org/github/hjhuney/Flight-Disruption/blob/master/BTS_Airline_OnTime_Perf_2016_18.ipynb). 
 
 ## Airport Stats
 
